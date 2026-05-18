@@ -1,0 +1,16 @@
+{
+  "id": "grants-ai",
+  "name": "Grants AI",
+  "tagline": "AI-powered grant discovery and application assistant",
+  "description": "AI-powered grants discovery application built for Aurora Market. Helps organizations find and apply for funding opportunities using intelligent matching.",
+  "category": "business",
+  "tags": ["ai", "grants", "funding", "business"],
+  "url": "https://auroramarket.org/grants-ai",
+  "demo": "https://21leahcimhtiek-oss.github.io/grants-ai",
+  "repo": "https://github.com/21leahcimhtiek-oss/grants-ai",
+  "stack": ["Node.js", "React", "PostgreSQL"],
+  "status": "mvp",
+  "version": "1.0.0",
+  "author": "Aurora Rayes LLC",
+  "license": "MIT"
+}
